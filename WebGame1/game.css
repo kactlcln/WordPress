@@ -1,0 +1,17 @@
+p{
+  font-size:40px;
+  font-weight: bold;
+}
+
+.game-area{
+  width:80%;
+  height: 100%;
+  margin:auto;
+  text-align: center;
+}
+.result_box,.result_cpu,.result_player{
+  font-size:30px;
+}
+.result_box{
+  color: red;
+}
