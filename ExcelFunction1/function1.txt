@@ -1,0 +1,5 @@
+Sub Sample1()
+
+ActiveSheet.ExportAsFixedFormat Type:=xlTypePDF, Filename:="testfile.pdf",
+
+End Sub
